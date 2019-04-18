@@ -1,0 +1,23 @@
+.img-thumbnail img{
+	width: 100%;
+}
+
+.img-thumbnail{
+	padding: 0;
+}
+
+.img-thumbnail .caption-full{
+	padding: 9px;
+}
+
+#campground{
+	margin-top: 20px;
+}
+
+.card img{
+	width: 100%;
+}
+
+#delete-form{
+	display: inline;
+}
